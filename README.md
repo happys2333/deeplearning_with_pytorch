@@ -1,2 +1,2 @@
-# deeplearning_with_pytorch
-How to learn deeplearning with pytorch? This repository will teach you!
+# Pytorch深度学习
+本仓库是Pytorch入门教程，建议您在学习之前应该
